@@ -1,0 +1,23 @@
+{
+  "name": "ricks-render-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generic headless Remotion + Three.js cloud render worker (no factory logic or secrets).",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=10.0.0"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.442",
+    "@remotion/renderer": "4.0.442",
+    "@remotion/three": "4.0.442",
+    "@types/react": "19.2.14",
+    "@types/three": "0.187.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "remotion": "4.0.442",
+    "three": "0.187.0",
+    "zod": "^3.25.76"
+  }
+}

@@ -1,0 +1,81 @@
+name: Render Short Job
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: 'Job directory under jobs/ (e.g. job-20261125-01)'
+        required: true
+        type: string
+      mode:
+        description: 'Render mode: stills or mp4'
+        required: true
+        default: 'mp4'
+        type: choice
+        options:
+          - stills
+          - mp4
+      composition:
+        description: 'Remotion composition ID'
+        required: true
+        default: 'RicksMainShort'
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - name: Install render dependencies & Chromium
+        run: |
+          npm ci --no-audit --no-fund || npm install --no-audit --no-fund
+          npx remotion browser ensure
+      - name: Validate job directory
+        run: |
+          JOB_DIR="jobs/${{ inputs.job_id }}"
+          test -d "$JOB_DIR/remotion-beats"
+          test -f "$JOB_DIR/remotion-beats/Root.tsx"
+      - name: Render stills or MP4
+        run: |
+          JOB_DIR="jobs/${{ inputs.job_id }}"
+          mkdir -p "$JOB_DIR/out"
+          if [ "${{ inputs.mode }}" = "stills" ]; then
+            node -e '
+              const fs = require("node:fs");
+              const { execFileSync } = require("node:child_process");
+              const job = process.env.JOB_DIR;
+              const plan = JSON.parse(fs.readFileSync(`${job}/remotion-beats/plan.json`, "utf8"));
+              const frames = Array.isArray(plan) ? plan : (plan.frames || []);
+              for (const item of frames) {
+                const f = typeof item === "number" ? item : item.frame;
+                const name = `f${String(f).padStart(4, "0")}.png`;
+                execFileSync("npx", [
+                  "remotion", "still",
+                  `${job}/remotion-beats/Root.tsx`,
+                  process.env.COMP,
+                  `${job}/out/${name}`,
+                  `--frame=${f}`,
+                  "--gl=swangle"
+                ], { stdio: "inherit" });
+              }
+            ' JOB_DIR="$JOB_DIR" COMP="${{ inputs.composition }}"
+          else
+            npx remotion render "$JOB_DIR/remotion-beats/Root.tsx" "${{ inputs.composition }}" "$JOB_DIR/out/render.mp4" --gl=swangle --codec=h264 --concurrency=2
+          fi
+        env:
+          JOB_DIR: jobs/${{ inputs.job_id }}
+          COMP: ${{ inputs.composition }}
+      - name: Upload render output
+        uses: actions/upload-artifact@v4
+        with:
+          name: render-${{ inputs.job_id }}-${{ inputs.mode }}
+          path: jobs/${{ inputs.job_id }}/out/
+          retention-days: 3
