@@ -1,0 +1,1263 @@
+{
+  "order1Verified": true,
+  "fps": 30,
+  "totalDurationSec": 58.54,
+  "totalFrames": 1756,
+  "voiceWavPath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_voice.wav",
+  "masteredWavPath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav",
+  "lufsIntegrated": -14.26,
+  "truePeakDbtp": -1.56,
+  "alignmentToleranceFrames": 1,
+  "copyrightSourceRisk": 0,
+  "words": [
+    {
+      "word": "This",
+      "startSec": 0,
+      "endSec": 0.1333,
+      "startFrame": 0,
+      "endFrame": 4,
+      "emphasis": false
+    },
+    {
+      "word": "five-inch",
+      "startSec": 0.1333,
+      "endSec": 0.7,
+      "startFrame": 4,
+      "endFrame": 21,
+      "emphasis": true
+    },
+    {
+      "word": "screw",
+      "startSec": 0.7,
+      "endSec": 0.9333,
+      "startFrame": 21,
+      "endFrame": 28,
+      "emphasis": true
+    },
+    {
+      "word": "saved",
+      "startSec": 0.9333,
+      "endSec": 1.4333,
+      "startFrame": 28,
+      "endFrame": 43,
+      "emphasis": false
+    },
+    {
+      "word": "a",
+      "startSec": 1.4333,
+      "endSec": 1.5333,
+      "startFrame": 43,
+      "endFrame": 46,
+      "emphasis": false
+    },
+    {
+      "word": "steel",
+      "startSec": 1.5333,
+      "endSec": 1.6667,
+      "startFrame": 46,
+      "endFrame": 50,
+      "emphasis": false
+    },
+    {
+      "word": "bridge.",
+      "startSec": 1.6667,
+      "endSec": 2.0667,
+      "startFrame": 50,
+      "endFrame": 62,
+      "emphasis": true
+    },
+    {
+      "word": "In",
+      "startSec": 3.0667,
+      "endSec": 3.2667,
+      "startFrame": 92,
+      "endFrame": 98,
+      "emphasis": false
+    },
+    {
+      "word": "September",
+      "startSec": 3.2667,
+      "endSec": 3.5,
+      "startFrame": 98,
+      "endFrame": 105,
+      "emphasis": false
+    },
+    {
+      "word": "1873,",
+      "startSec": 3.5,
+      "endSec": 4.8667,
+      "startFrame": 105,
+      "endFrame": 146,
+      "emphasis": true
+    },
+    {
+      "word": "blistering",
+      "startSec": 5.2333,
+      "endSec": 5.8333,
+      "startFrame": 157,
+      "endFrame": 175,
+      "emphasis": false
+    },
+    {
+      "word": "heat",
+      "startSec": 5.8333,
+      "endSec": 5.9667,
+      "startFrame": 175,
+      "endFrame": 179,
+      "emphasis": false
+    },
+    {
+      "word": "expanded",
+      "startSec": 5.9667,
+      "endSec": 6.4667,
+      "startFrame": 179,
+      "endFrame": 194,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 6.4667,
+      "endSec": 6.7333,
+      "startFrame": 194,
+      "endFrame": 202,
+      "emphasis": false
+    },
+    {
+      "word": "Eads",
+      "startSec": 6.7333,
+      "endSec": 6.9,
+      "startFrame": 202,
+      "endFrame": 207,
+      "emphasis": true
+    },
+    {
+      "word": "Bridge",
+      "startSec": 6.9,
+      "endSec": 7.2333,
+      "startFrame": 207,
+      "endFrame": 217,
+      "emphasis": true
+    },
+    {
+      "word": "arch.",
+      "startSec": 7.2333,
+      "endSec": 7.5,
+      "startFrame": 217,
+      "endFrame": 225,
+      "emphasis": false
+    },
+    {
+      "word": "The",
+      "startSec": 8.2667,
+      "endSec": 8.3333,
+      "startFrame": 248,
+      "endFrame": 250,
+      "emphasis": false
+    },
+    {
+      "word": "senior",
+      "startSec": 8.3333,
+      "endSec": 8.6,
+      "startFrame": 250,
+      "endFrame": 258,
+      "emphasis": false
+    },
+    {
+      "word": "ironmaster",
+      "startSec": 8.6,
+      "endSec": 9.2333,
+      "startFrame": 258,
+      "endFrame": 277,
+      "emphasis": false
+    },
+    {
+      "word": "scoffed,",
+      "startSec": 9.2333,
+      "endSec": 9.9333,
+      "startFrame": 277,
+      "endFrame": 298,
+      "emphasis": true
+    },
+    {
+      "word": "'That",
+      "startSec": 10.3667,
+      "endSec": 10.5333,
+      "startFrame": 311,
+      "endFrame": 316,
+      "emphasis": false
+    },
+    {
+      "word": "steel",
+      "startSec": 10.5333,
+      "endSec": 10.8333,
+      "startFrame": 316,
+      "endFrame": 325,
+      "emphasis": false
+    },
+    {
+      "word": "won't",
+      "startSec": 10.8333,
+      "endSec": 11.1667,
+      "startFrame": 325,
+      "endFrame": 335,
+      "emphasis": false
+    },
+    {
+      "word": "close.'",
+      "startSec": 11.1667,
+      "endSec": 11.4333,
+      "startFrame": 335,
+      "endFrame": 343,
+      "emphasis": false
+    },
+    {
+      "word": "Missing",
+      "startSec": 12.4,
+      "endSec": 12.4333,
+      "startFrame": 372,
+      "endFrame": 373,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 12.4333,
+      "endSec": 12.6,
+      "startFrame": 373,
+      "endFrame": 378,
+      "emphasis": false
+    },
+    {
+      "word": "September",
+      "startSec": 12.6,
+      "endSec": 12.9333,
+      "startFrame": 378,
+      "endFrame": 388,
+      "emphasis": false
+    },
+    {
+      "word": "19",
+      "startSec": 12.9333,
+      "endSec": 13.3333,
+      "startFrame": 388,
+      "endFrame": 400,
+      "emphasis": true
+    },
+    {
+      "word": "deadline",
+      "startSec": 13.3333,
+      "endSec": 13.9667,
+      "startFrame": 400,
+      "endFrame": 419,
+      "emphasis": false
+    },
+    {
+      "word": "meant",
+      "startSec": 13.9667,
+      "endSec": 14.3667,
+      "startFrame": 419,
+      "endFrame": 431,
+      "emphasis": false
+    },
+    {
+      "word": "forfeiting",
+      "startSec": 14.3667,
+      "endSec": 14.9333,
+      "startFrame": 431,
+      "endFrame": 448,
+      "emphasis": false
+    },
+    {
+      "word": "a",
+      "startSec": 14.9333,
+      "endSec": 15.0333,
+      "startFrame": 448,
+      "endFrame": 451,
+      "emphasis": false
+    },
+    {
+      "word": "half-million-dollar",
+      "startSec": 15.0333,
+      "endSec": 15.9333,
+      "startFrame": 451,
+      "endFrame": 478,
+      "emphasis": true
+    },
+    {
+      "word": "London",
+      "startSec": 15.9333,
+      "endSec": 16.2667,
+      "startFrame": 478,
+      "endFrame": 488,
+      "emphasis": false
+    },
+    {
+      "word": "loan,",
+      "startSec": 16.2667,
+      "endSec": 16.5333,
+      "startFrame": 488,
+      "endFrame": 496,
+      "emphasis": false
+    },
+    {
+      "word": "yet",
+      "startSec": 17.1667,
+      "endSec": 17.3333,
+      "startFrame": 515,
+      "endFrame": 520,
+      "emphasis": false
+    },
+    {
+      "word": "thermal",
+      "startSec": 17.3333,
+      "endSec": 17.5667,
+      "startFrame": 520,
+      "endFrame": 527,
+      "emphasis": false
+    },
+    {
+      "word": "expansion",
+      "startSec": 17.5667,
+      "endSec": 18.2333,
+      "startFrame": 527,
+      "endFrame": 547,
+      "emphasis": false
+    },
+    {
+      "word": "pinched",
+      "startSec": 18.2333,
+      "endSec": 18.6333,
+      "startFrame": 547,
+      "endFrame": 559,
+      "emphasis": true
+    },
+    {
+      "word": "the",
+      "startSec": 18.6333,
+      "endSec": 18.7333,
+      "startFrame": 559,
+      "endFrame": 562,
+      "emphasis": false
+    },
+    {
+      "word": "502-foot",
+      "startSec": 18.7333,
+      "endSec": 19.7667,
+      "startFrame": 562,
+      "endFrame": 593,
+      "emphasis": true
+    },
+    {
+      "word": "arch",
+      "startSec": 19.7667,
+      "endSec": 19.9667,
+      "startFrame": 593,
+      "endFrame": 599,
+      "emphasis": false
+    },
+    {
+      "word": "gap",
+      "startSec": 19.9667,
+      "endSec": 20.2667,
+      "startFrame": 599,
+      "endFrame": 608,
+      "emphasis": false
+    },
+    {
+      "word": "too",
+      "startSec": 20.2667,
+      "endSec": 20.5333,
+      "startFrame": 608,
+      "endFrame": 616,
+      "emphasis": false
+    },
+    {
+      "word": "narrow.",
+      "startSec": 20.5333,
+      "endSec": 20.8333,
+      "startFrame": 616,
+      "endFrame": 625,
+      "emphasis": false
+    },
+    {
+      "word": "Assistant",
+      "startSec": 21.8667,
+      "endSec": 21.9,
+      "startFrame": 656,
+      "endFrame": 657,
+      "emphasis": false
+    },
+    {
+      "word": "engineer",
+      "startSec": 21.9,
+      "endSec": 22.4,
+      "startFrame": 657,
+      "endFrame": 672,
+      "emphasis": false
+    },
+    {
+      "word": "Henry",
+      "startSec": 22.4,
+      "endSec": 22.8,
+      "startFrame": 672,
+      "endFrame": 684,
+      "emphasis": false
+    },
+    {
+      "word": "Flad",
+      "startSec": 22.8,
+      "endSec": 23.0667,
+      "startFrame": 684,
+      "endFrame": 692,
+      "emphasis": true
+    },
+    {
+      "word": "wrapped",
+      "startSec": 23.0667,
+      "endSec": 23.4333,
+      "startFrame": 692,
+      "endFrame": 703,
+      "emphasis": false
+    },
+    {
+      "word": "wooden",
+      "startSec": 23.4333,
+      "endSec": 23.7667,
+      "startFrame": 703,
+      "endFrame": 713,
+      "emphasis": false
+    },
+    {
+      "word": "troughs",
+      "startSec": 23.7667,
+      "endSec": 24.3333,
+      "startFrame": 713,
+      "endFrame": 730,
+      "emphasis": false
+    },
+    {
+      "word": "around",
+      "startSec": 24.3333,
+      "endSec": 24.5333,
+      "startFrame": 730,
+      "endFrame": 736,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 24.5333,
+      "endSec": 24.6333,
+      "startFrame": 736,
+      "endFrame": 739,
+      "emphasis": false
+    },
+    {
+      "word": "steel",
+      "startSec": 24.6333,
+      "endSec": 24.8667,
+      "startFrame": 739,
+      "endFrame": 746,
+      "emphasis": false
+    },
+    {
+      "word": "ribs",
+      "startSec": 24.8667,
+      "endSec": 25.1667,
+      "startFrame": 746,
+      "endFrame": 755,
+      "emphasis": false
+    },
+    {
+      "word": "and",
+      "startSec": 25.1667,
+      "endSec": 25.7333,
+      "startFrame": 755,
+      "endFrame": 772,
+      "emphasis": false
+    },
+    {
+      "word": "packed",
+      "startSec": 25.7333,
+      "endSec": 25.8667,
+      "startFrame": 772,
+      "endFrame": 776,
+      "emphasis": false
+    },
+    {
+      "word": "30",
+      "startSec": 25.8667,
+      "endSec": 26.2667,
+      "startFrame": 776,
+      "endFrame": 788,
+      "emphasis": true
+    },
+    {
+      "word": "tons",
+      "startSec": 26.2667,
+      "endSec": 26.5333,
+      "startFrame": 788,
+      "endFrame": 796,
+      "emphasis": true
+    },
+    {
+      "word": "of",
+      "startSec": 26.5333,
+      "endSec": 26.7333,
+      "startFrame": 796,
+      "endFrame": 802,
+      "emphasis": false
+    },
+    {
+      "word": "ice",
+      "startSec": 26.7333,
+      "endSec": 26.9,
+      "startFrame": 802,
+      "endFrame": 807,
+      "emphasis": true
+    },
+    {
+      "word": "inside.",
+      "startSec": 26.9,
+      "endSec": 27.1333,
+      "startFrame": 807,
+      "endFrame": 814,
+      "emphasis": false
+    },
+    {
+      "word": "The",
+      "startSec": 27.9333,
+      "endSec": 28.0333,
+      "startFrame": 838,
+      "endFrame": 841,
+      "emphasis": false
+    },
+    {
+      "word": "ironmaster",
+      "startSec": 28.0333,
+      "endSec": 28.6333,
+      "startFrame": 841,
+      "endFrame": 859,
+      "emphasis": false
+    },
+    {
+      "word": "smirked,",
+      "startSec": 28.6333,
+      "endSec": 29.2,
+      "startFrame": 859,
+      "endFrame": 876,
+      "emphasis": true
+    },
+    {
+      "word": "'Ice",
+      "startSec": 29.2,
+      "endSec": 29.8,
+      "startFrame": 876,
+      "endFrame": 894,
+      "emphasis": true
+    },
+    {
+      "word": "can't",
+      "startSec": 29.8,
+      "endSec": 30.1667,
+      "startFrame": 894,
+      "endFrame": 905,
+      "emphasis": false
+    },
+    {
+      "word": "beat",
+      "startSec": 30.1667,
+      "endSec": 30.3333,
+      "startFrame": 905,
+      "endFrame": 910,
+      "emphasis": false
+    },
+    {
+      "word": "summer.'",
+      "startSec": 30.3333,
+      "endSec": 30.6,
+      "startFrame": 910,
+      "endFrame": 918,
+      "emphasis": false
+    },
+    {
+      "word": "He",
+      "startSec": 31.3333,
+      "endSec": 31.5,
+      "startFrame": 940,
+      "endFrame": 945,
+      "emphasis": false
+    },
+    {
+      "word": "was",
+      "startSec": 31.5,
+      "endSec": 31.6333,
+      "startFrame": 945,
+      "endFrame": 949,
+      "emphasis": false
+    },
+    {
+      "word": "right:",
+      "startSec": 31.6333,
+      "endSec": 31.8667,
+      "startFrame": 949,
+      "endFrame": 956,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 32.2333,
+      "endSec": 32.3333,
+      "startFrame": 967,
+      "endFrame": 970,
+      "emphasis": false
+    },
+    {
+      "word": "ribs",
+      "startSec": 32.3333,
+      "endSec": 32.5,
+      "startFrame": 970,
+      "endFrame": 975,
+      "emphasis": false
+    },
+    {
+      "word": "barely",
+      "startSec": 32.5,
+      "endSec": 32.9333,
+      "startFrame": 975,
+      "endFrame": 988,
+      "emphasis": false
+    },
+    {
+      "word": "shrank.",
+      "startSec": 32.9333,
+      "endSec": 33.3,
+      "startFrame": 988,
+      "endFrame": 999,
+      "emphasis": false
+    },
+    {
+      "word": "So",
+      "startSec": 33.8333,
+      "endSec": 33.9667,
+      "startFrame": 1015,
+      "endFrame": 1019,
+      "emphasis": false
+    },
+    {
+      "word": "crews",
+      "startSec": 33.9667,
+      "endSec": 34.1667,
+      "startFrame": 1019,
+      "endFrame": 1025,
+      "emphasis": false
+    },
+    {
+      "word": "used",
+      "startSec": 34.1667,
+      "endSec": 34.5,
+      "startFrame": 1025,
+      "endFrame": 1035,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 34.5,
+      "endSec": 34.6667,
+      "startFrame": 1035,
+      "endFrame": 1040,
+      "emphasis": false
+    },
+    {
+      "word": "backup",
+      "startSec": 34.6667,
+      "endSec": 34.9333,
+      "startFrame": 1040,
+      "endFrame": 1048,
+      "emphasis": false
+    },
+    {
+      "word": "built",
+      "startSec": 34.9333,
+      "endSec": 35.2667,
+      "startFrame": 1048,
+      "endFrame": 1058,
+      "emphasis": false
+    },
+    {
+      "word": "by",
+      "startSec": 35.2667,
+      "endSec": 35.5333,
+      "startFrame": 1058,
+      "endFrame": 1066,
+      "emphasis": false
+    },
+    {
+      "word": "James",
+      "startSec": 35.5333,
+      "endSec": 35.7667,
+      "startFrame": 1066,
+      "endFrame": 1073,
+      "emphasis": false
+    },
+    {
+      "word": "Eads:",
+      "startSec": 35.7667,
+      "endSec": 36.2667,
+      "startFrame": 1073,
+      "endFrame": 1088,
+      "emphasis": true
+    },
+    {
+      "word": "closing",
+      "startSec": 36.7,
+      "endSec": 36.8333,
+      "startFrame": 1101,
+      "endFrame": 1105,
+      "emphasis": false
+    },
+    {
+      "word": "tubes",
+      "startSec": 36.8333,
+      "endSec": 37.2,
+      "startFrame": 1105,
+      "endFrame": 1116,
+      "emphasis": false
+    },
+    {
+      "word": "cut",
+      "startSec": 37.2,
+      "endSec": 37.5667,
+      "startFrame": 1116,
+      "endFrame": 1127,
+      "emphasis": false
+    },
+    {
+      "word": "five",
+      "startSec": 37.5667,
+      "endSec": 37.9333,
+      "startFrame": 1127,
+      "endFrame": 1138,
+      "emphasis": false
+    },
+    {
+      "word": "inches",
+      "startSec": 37.9333,
+      "endSec": 38.1333,
+      "startFrame": 1138,
+      "endFrame": 1144,
+      "emphasis": false
+    },
+    {
+      "word": "short",
+      "startSec": 38.1333,
+      "endSec": 38.4667,
+      "startFrame": 1144,
+      "endFrame": 1154,
+      "emphasis": true
+    },
+    {
+      "word": "with",
+      "startSec": 38.4667,
+      "endSec": 38.7333,
+      "startFrame": 1154,
+      "endFrame": 1162,
+      "emphasis": false
+    },
+    {
+      "word": "internal",
+      "startSec": 38.7333,
+      "endSec": 39.0333,
+      "startFrame": 1162,
+      "endFrame": 1171,
+      "emphasis": false
+    },
+    {
+      "word": "threads.",
+      "startSec": 39.0333,
+      "endSec": 39.4667,
+      "startFrame": 1171,
+      "endFrame": 1184,
+      "emphasis": true
+    },
+    {
+      "word": "Think",
+      "startSec": 40.1333,
+      "endSec": 40.2667,
+      "startFrame": 1204,
+      "endFrame": 1208,
+      "emphasis": false
+    },
+    {
+      "word": "of",
+      "startSec": 40.2667,
+      "endSec": 40.4,
+      "startFrame": 1208,
+      "endFrame": 1212,
+      "emphasis": false
+    },
+    {
+      "word": "a",
+      "startSec": 40.4,
+      "endSec": 40.4667,
+      "startFrame": 1212,
+      "endFrame": 1214,
+      "emphasis": false
+    },
+    {
+      "word": "tension",
+      "startSec": 40.4667,
+      "endSec": 40.7,
+      "startFrame": 1214,
+      "endFrame": 1221,
+      "emphasis": true
+    },
+    {
+      "word": "shower",
+      "startSec": 40.7,
+      "endSec": 41.0667,
+      "startFrame": 1221,
+      "endFrame": 1232,
+      "emphasis": false
+    },
+    {
+      "word": "rod:",
+      "startSec": 41.0667,
+      "endSec": 41.4333,
+      "startFrame": 1232,
+      "endFrame": 1243,
+      "emphasis": false
+    },
+    {
+      "word": "workers",
+      "startSec": 42.1,
+      "endSec": 42.3333,
+      "startFrame": 1263,
+      "endFrame": 1270,
+      "emphasis": false
+    },
+    {
+      "word": "cranked",
+      "startSec": 42.3333,
+      "endSec": 42.9,
+      "startFrame": 1270,
+      "endFrame": 1287,
+      "emphasis": false
+    },
+    {
+      "word": "a",
+      "startSec": 42.9,
+      "endSec": 43.0333,
+      "startFrame": 1287,
+      "endFrame": 1291,
+      "emphasis": false
+    },
+    {
+      "word": "threaded",
+      "startSec": 43.0333,
+      "endSec": 43.2667,
+      "startFrame": 1291,
+      "endFrame": 1298,
+      "emphasis": false
+    },
+    {
+      "word": "wrought-iron",
+      "startSec": 43.2667,
+      "endSec": 43.9333,
+      "startFrame": 1298,
+      "endFrame": 1318,
+      "emphasis": false
+    },
+    {
+      "word": "screw-plug",
+      "startSec": 43.9333,
+      "endSec": 44.6,
+      "startFrame": 1318,
+      "endFrame": 1338,
+      "emphasis": true
+    },
+    {
+      "word": "inward",
+      "startSec": 44.6,
+      "endSec": 44.8667,
+      "startFrame": 1338,
+      "endFrame": 1346,
+      "emphasis": false
+    },
+    {
+      "word": "to",
+      "startSec": 44.8667,
+      "endSec": 45.4667,
+      "startFrame": 1346,
+      "endFrame": 1364,
+      "emphasis": false
+    },
+    {
+      "word": "clear",
+      "startSec": 45.4667,
+      "endSec": 45.6667,
+      "startFrame": 1364,
+      "endFrame": 1370,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 45.6667,
+      "endSec": 45.8667,
+      "startFrame": 1370,
+      "endFrame": 1376,
+      "emphasis": false
+    },
+    {
+      "word": "tight",
+      "startSec": 45.8667,
+      "endSec": 46.0667,
+      "startFrame": 1376,
+      "endFrame": 1382,
+      "emphasis": true
+    },
+    {
+      "word": "gap,",
+      "startSec": 46.0667,
+      "endSec": 46.3667,
+      "startFrame": 1382,
+      "endFrame": 1391,
+      "emphasis": false
+    },
+    {
+      "word": "then",
+      "startSec": 46.8667,
+      "endSec": 47.0667,
+      "startFrame": 1406,
+      "endFrame": 1412,
+      "emphasis": false
+    },
+    {
+      "word": "spun",
+      "startSec": 47.0667,
+      "endSec": 47.3333,
+      "startFrame": 1412,
+      "endFrame": 1420,
+      "emphasis": false
+    },
+    {
+      "word": "it",
+      "startSec": 47.3333,
+      "endSec": 47.4667,
+      "startFrame": 1420,
+      "endFrame": 1424,
+      "emphasis": false
+    },
+    {
+      "word": "outward",
+      "startSec": 47.4667,
+      "endSec": 47.7,
+      "startFrame": 1424,
+      "endFrame": 1431,
+      "emphasis": true
+    },
+    {
+      "word": "to",
+      "startSec": 47.7,
+      "endSec": 48.0333,
+      "startFrame": 1431,
+      "endFrame": 1441,
+      "emphasis": false
+    },
+    {
+      "word": "lock.",
+      "startSec": 48.0333,
+      "endSec": 48.2,
+      "startFrame": 1441,
+      "endFrame": 1446,
+      "emphasis": true
+    },
+    {
+      "word": "On",
+      "startSec": 49.2,
+      "endSec": 49.3667,
+      "startFrame": 1476,
+      "endFrame": 1481,
+      "emphasis": false
+    },
+    {
+      "word": "September",
+      "startSec": 49.3667,
+      "endSec": 49.5667,
+      "startFrame": 1481,
+      "endFrame": 1487,
+      "emphasis": false
+    },
+    {
+      "word": "17,",
+      "startSec": 49.5667,
+      "endSec": 50.1333,
+      "startFrame": 1487,
+      "endFrame": 1504,
+      "emphasis": true
+    },
+    {
+      "word": "1873,",
+      "startSec": 50.7667,
+      "endSec": 51.6667,
+      "startFrame": 1523,
+      "endFrame": 1550,
+      "emphasis": true
+    },
+    {
+      "word": "the",
+      "startSec": 52.2667,
+      "endSec": 52.3667,
+      "startFrame": 1568,
+      "endFrame": 1571,
+      "emphasis": false
+    },
+    {
+      "word": "west",
+      "startSec": 52.3667,
+      "endSec": 52.6,
+      "startFrame": 1571,
+      "endFrame": 1578,
+      "emphasis": false
+    },
+    {
+      "word": "arch",
+      "startSec": 52.6,
+      "endSec": 52.8333,
+      "startFrame": 1578,
+      "endFrame": 1585,
+      "emphasis": false
+    },
+    {
+      "word": "locked",
+      "startSec": 52.8333,
+      "endSec": 53.1667,
+      "startFrame": 1585,
+      "endFrame": 1595,
+      "emphasis": true
+    },
+    {
+      "word": "tight",
+      "startSec": 53.1667,
+      "endSec": 53.5333,
+      "startFrame": 1595,
+      "endFrame": 1606,
+      "emphasis": true
+    },
+    {
+      "word": "two",
+      "startSec": 53.5333,
+      "endSec": 53.9,
+      "startFrame": 1606,
+      "endFrame": 1617,
+      "emphasis": false
+    },
+    {
+      "word": "days",
+      "startSec": 53.9,
+      "endSec": 54.1333,
+      "startFrame": 1617,
+      "endFrame": 1624,
+      "emphasis": false
+    },
+    {
+      "word": "early,",
+      "startSec": 54.1333,
+      "endSec": 54.4333,
+      "startFrame": 1624,
+      "endFrame": 1633,
+      "emphasis": false
+    },
+    {
+      "word": "saving",
+      "startSec": 54.4333,
+      "endSec": 55.1667,
+      "startFrame": 1633,
+      "endFrame": 1655,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 55.1667,
+      "endSec": 55.4333,
+      "startFrame": 1655,
+      "endFrame": 1663,
+      "emphasis": false
+    },
+    {
+      "word": "London",
+      "startSec": 55.4333,
+      "endSec": 55.6667,
+      "startFrame": 1663,
+      "endFrame": 1670,
+      "emphasis": false
+    },
+    {
+      "word": "loan",
+      "startSec": 55.6667,
+      "endSec": 55.9667,
+      "startFrame": 1670,
+      "endFrame": 1679,
+      "emphasis": false
+    },
+    {
+      "word": "while",
+      "startSec": 55.9667,
+      "endSec": 56.6333,
+      "startFrame": 1679,
+      "endFrame": 1699,
+      "emphasis": false
+    },
+    {
+      "word": "the",
+      "startSec": 56.6333,
+      "endSec": 56.7667,
+      "startFrame": 1699,
+      "endFrame": 1703,
+      "emphasis": false
+    },
+    {
+      "word": "stunned",
+      "startSec": 56.7667,
+      "endSec": 56.9667,
+      "startFrame": 1703,
+      "endFrame": 1709,
+      "emphasis": true
+    },
+    {
+      "word": "ironmaster",
+      "startSec": 56.9667,
+      "endSec": 57.6333,
+      "startFrame": 1709,
+      "endFrame": 1729,
+      "emphasis": false
+    },
+    {
+      "word": "saw",
+      "startSec": 57.6333,
+      "endSec": 58.0333,
+      "startFrame": 1729,
+      "endFrame": 1741,
+      "emphasis": false
+    },
+    {
+      "word": "how",
+      "startSec": 58.0333,
+      "endSec": 58.2667,
+      "startFrame": 1741,
+      "endFrame": 1748,
+      "emphasis": false
+    }
+  ],
+  "acts": [
+    {
+      "act": "act_1_anomaly",
+      "startFrame": 0,
+      "endFrame": 372,
+      "mood": "anomaly"
+    },
+    {
+      "act": "act_2_pressure",
+      "startFrame": 372,
+      "endFrame": 1204,
+      "mood": "pressure"
+    },
+    {
+      "act": "act_3_payoff",
+      "startFrame": 1204,
+      "endFrame": 1756,
+      "mood": "payoff"
+    }
+  ],
+  "foleyCues": [
+    {
+      "cueId": "sfx_01_hook_screw_pop",
+      "type": "metal_clank",
+      "triggerFrame": 4,
+      "durationSec": 0.14,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_02_1873_tick",
+      "type": "gear_click",
+      "triggerFrame": 105,
+      "durationSec": 0.08,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_03_heat_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 368,
+      "durationSec": 0.48,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_04_deadline_tick",
+      "type": "gear_click",
+      "triggerFrame": 388,
+      "durationSec": 0.07,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_05_ice_troughs_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 692,
+      "durationSec": 0.28,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_06_30_tons_tick",
+      "type": "gear_click",
+      "triggerFrame": 776,
+      "durationSec": 0.08,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_07_twist_impact",
+      "type": "sub_impact",
+      "triggerFrame": 949,
+      "durationSec": 0.26,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_08_backup_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 1040,
+      "durationSec": 0.56,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_09_five_inches_tick",
+      "type": "gear_click",
+      "triggerFrame": 1127,
+      "durationSec": 0.07,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_10_analogy_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 1214,
+      "durationSec": 0.24,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_11_spun_outward_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 1424,
+      "durationSec": 0.44,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_12_payoff_lock_impact",
+      "type": "sub_impact",
+      "triggerFrame": 1585,
+      "durationSec": 0.25,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    },
+    {
+      "cueId": "sfx_13_exit_loop_aire",
+      "type": "whip_whoosh",
+      "triggerFrame": 1741,
+      "durationSec": 0.36,
+      "sourcePath": "/home/anasahmadouch/ricks-autonomous-factory/channels/channel_01_flagship_en/daily-shorts/2026-11-25/short_01_eads_bridge_ice_screw/05_mastered.wav"
+    }
+  ]
+}

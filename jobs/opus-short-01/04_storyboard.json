@@ -1,0 +1,139 @@
+{
+  "topicId": "prod-2026-11-25-eads-bridge-ice-screw",
+  "fps": 30,
+  "beats": [
+    {
+      "beatIndex": 0,
+      "beatId": "hook",
+      "startFrame": 0,
+      "endFrame": 92,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "This five-inch screw saved a steel bridge.",
+      "visualType": "anchor_25d_manipulation",
+      "cameraRig": "macro_closeup",
+      "anchorPhase": "entry",
+      "colorClockState": "anomaly",
+      "paletteHexes": [
+        "#EBB870",
+        "#364354",
+        "#87ADBD"
+      ],
+      "visualChangeDescription": "Frame 0 opens on the wrought-iron screw-plug held horizontally in a rigger's glove between two hollow rib mouths. One bright nick on its upper thread catches the sun. At f4 the glove rolls it a few degrees into the light. At f21 three ridges and the nick read against the blue river through the gap. Ease back along the rib, revealing the timber staging, far masonry pier and a hanging rope in successive planes. Leave clear water below the action for captions.",
+      "shotFunction": "Introduce the one part the viewer will recognize after the ice fails. Carry its horizontal axis through the cuts, as the rails carry the eye through the studied engineering sequence 02_why-perfect-railroads-dont-work (f001–f065)."
+    },
+    {
+      "beatIndex": 1,
+      "beatId": "context",
+      "startFrame": 92,
+      "endFrame": 372,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "In September 1873, blistering heat expanded the Eads Bridge arch. The senior ironmaster scoffed, 'That steel won't close.'",
+      "visualType": "environmental_reaction",
+      "cameraRig": "wide",
+      "anchorPhase": "identification",
+      "colorClockState": "anomaly",
+      "paletteHexes": [
+        "#EAC084",
+        "#B25B38",
+        "#48576A"
+      ],
+      "visualChangeDescription": "Pull back from the waiting plug to both half arches above the Mississippi. Cut on the foreground staging post to a tight side elevation. Lock the camera as the sunlit lip creeps toward a pale scribe line on a fixed timber gauge. Center its travel on f179 and magnify the excursion to a tenth of the screen width across f173–185. Keep the far lip visible. At f248 tilt up to the senior ironmaster, a thick-outlined white head under a russet peaked cap. By f277 he has tapped the rib with his folding rule, tucked it under a crossed arm and raised one brow at the crew.",
+      "shotFunction": "Identify the joint the plug must close and show heat stealing clearance. Play the ironmaster as the dossier's dramatized composite. His chin-up dismissal sets the pose his final reaction will break."
+    },
+    {
+      "beatIndex": 2,
+      "beatId": "friction",
+      "startFrame": 372,
+      "endFrame": 656,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "Missing the September 19 deadline meant forfeiting a half-million-dollar London loan, yet thermal expansion pinched the 502-foot arch gap too narrow.",
+      "visualType": "pov_action",
+      "cameraRig": "top_down_overhead",
+      "anchorPhase": "test",
+      "colorClockState": "pressure",
+      "paletteHexes": [
+        "#D59650",
+        "#773D31",
+        "#33444C"
+      ],
+      "visualChangeDescription": "Overhead on a plank desk fastened to the west staging. A thumb pins a curling loan ledger at SEP 19 on f388 and runs down to LONDON · $500,000 on f451. Track along its ruled edge onto the parallel hoist line. At f515 a full-length standard tube descends between timber guides. From directly above, the pale rim of the tube overlaps the dark rim of its seat at f547. Drop to joint height as the sling takes the weight again. By f616 daylight remains beneath the jammed end, with the far end aligned.",
+      "shotFunction": "Connect the money at risk to a failed physical fit. Distinguish the plain standard tube from the nicked, threaded backup in the opening."
+    },
+    {
+      "beatIndex": 3,
+      "beatId": "escalation1",
+      "startFrame": 656,
+      "endFrame": 940,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "Assistant engineer Henry Flad wrapped wooden troughs around the steel ribs and packed 30 tons of ice inside. The ironmaster smirked, 'Ice can't beat summer.'",
+      "visualType": "environmental_reaction",
+      "cameraRig": "lateral_tracking",
+      "anchorPhase": "test",
+      "colorClockState": "pressure",
+      "paletteHexes": [
+        "#AC694E",
+        "#86CFD8",
+        "#503B34"
+      ],
+      "visualChangeDescription": "Track beside Henry Flad as he hugs a timber trough half to the rib at f692. A second worker straps the mating half in place. Follow a tipped ice basket at f772 down to its contents banking against the steel by f802. Pull along the timber bays to show the load distributed down the arch. On f838 follow a trickle to the ironmaster's boot. He catches a drop on his folded rule, watches it run off, then lifts one mouth corner at f859 without taking his eyes off the joint.",
+      "shotFunction": "Show where the ice actually touches steel. The same cap, rule and raised brow identify the skeptic doubling down while the trough drains."
+    },
+    {
+      "beatIndex": 4,
+      "beatId": "escalation2",
+      "startFrame": 940,
+      "endFrame": 1204,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "He was right: the ribs barely shrank. So crews used the backup built by James Eads: closing tubes cut five inches short with internal threads.",
+      "visualType": "anchor_25d_manipulation",
+      "cameraRig": "top_down_overhead",
+      "anchorPhase": "reappearance",
+      "colorClockState": "pressure",
+      "paletteHexes": [
+        "#7DAEB8",
+        "#423D39",
+        "#DBA96B"
+      ],
+      "visualChangeDescription": "Look straight down at the wet lip and fixed scribe from the failed fit. A worker presents the same standard tube. In close crop the cooling lip retreats across f982–994, about 8% of screen width; at f988 the standard rim still overhangs the seat. Track the worker's hands to the crate as its lid slides off at f1040. Set the backup alongside the standard against one end stop. At f1127 the exposed five-inch length of a folding rule bridges the difference in tube lengths. Tip into the bore on f1162; at f1171 raking light finds the female helix and the matching nicked plug beside it.",
+      "shotFunction": "Separate insufficient contraction from the solution. The five-inch measurement belongs to the shortening of the backup tube. Keep James Eads off the worksite."
+    },
+    {
+      "beatIndex": 5,
+      "beatId": "explanation",
+      "startFrame": 1204,
+      "endFrame": 1476,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "Think of a tension shower rod: workers cranked a threaded wrought-iron screw-plug inward to clear the tight gap, then spun it outward to lock.",
+      "visualType": "anchor_25d_manipulation",
+      "cameraRig": "pov",
+      "anchorPhase": "activation",
+      "colorClockState": "explanation",
+      "paletteHexes": [
+        "#E0D6B6",
+        "#648F99",
+        "#42494D"
+      ],
+      "visualChangeDescription": "Start with a tight illustrative insert of hands turning a tension shower rod shorter, slipping its foot between tile faces and twisting it back until the rubber grips. On f1263 match the rod axis and hand position to a worker's view over the spanner. Track to a longitudinal cutaway through the tube wall. A white chalk stripe on the plug winds past a stationary scratch as the plug retracts at f1338. At f1364 both ends of the shortened assembly pass inside the rib faces with daylight to spare. Reverse the turn at f1412. On f1424 exposed thread advances across the fixed scratch; the last sliver of light closes at f1441. Keep both travel directions on one axis.",
+      "shotFunction": "Make rotation and axial travel legible together. Scale the cutaway so the clearance changes cover a tenth of the frame width around each directional cue."
+    },
+    {
+      "beatIndex": 6,
+      "beatId": "payoff",
+      "startFrame": 1476,
+      "endFrame": 1756,
+      "locationId": "eads_west_arch_closing_platform",
+      "spokenPhrase": "On September 17, 1873, the west arch locked tight two days early, saving the London loan while the stunned ironmaster saw how",
+      "visualType": "anchor_25d_manipulation",
+      "cameraRig": "low_angle",
+      "anchorPhase": "closure",
+      "colorClockState": "payoff",
+      "paletteHexes": [
+        "#EBC789",
+        "#48697A",
+        "#394650"
+      ],
+      "visualChangeDescription": "At f1476 the site ledger opens to SEP 17, 1873 beside the earlier SEP 19 due date. Rise over the page to look up along the west arch. On f1585 the two bearing faces meet on the locked impact; follow the now continuous rib out over the water. At f1643 cut to a full-screen side macro for exactly 60 frames: the hoist sling relaxes into a belly while the seated faces stay flush against the fixed scribe, river light visible through the sling. Hold the joint in focus through f1702. Hard cut at f1703 to the ironmaster's face alone for 24 frames. His brow drops, eyes widen and the smirk opens into a silent O under the russet cap. At f1727 cut on his downward glance to the thread nick. Orbit into the hook's glove-and-plug match shot on f1741; f1755 lands one increment before frame 0 in angle, scale, light and screen position.",
+      "shotFunction": "Prove the closed arch carries the closing member after its lifting sling unloads. Keep the physical proof and stunned reaction in consecutive shots, then loop on the words 'saw how / This five-inch screw'."
+    }
+  ]
+}
