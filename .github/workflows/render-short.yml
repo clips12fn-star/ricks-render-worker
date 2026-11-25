@@ -27,7 +27,7 @@ permissions:
 jobs:
   render:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -67,7 +67,7 @@ jobs:
               }
             ' JOB_DIR="$JOB_DIR" COMP="${{ inputs.composition }}"
           else
-            npx remotion render "$JOB_DIR/remotion-beats/Root.tsx" "${{ inputs.composition }}" "$JOB_DIR/out/render.mp4" --gl=swangle --codec=h264 --concurrency=2
+            npx remotion render "$JOB_DIR/remotion-beats/Root.tsx" "${{ inputs.composition }}" "$JOB_DIR/out/render.mp4" --gl=swangle --codec=h264 --concurrency=4
           fi
         env:
           JOB_DIR: jobs/${{ inputs.job_id }}
